@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @derrickloi
+- 👀 I’m interested in fintech, super app development, automation and multi-cloud orchestration of i8s
+- 🌱 I’m currently learning AI-103 and data intelligence
+- 💞️ I’m looking to collaborate on hybrid and multi-cloud automation and cross platform workload integration
+- 📫 How to reach me is via linkedin

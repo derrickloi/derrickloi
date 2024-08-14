@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @derrickloi
 - 👀 I’m interested in fintech, super app development, automation and multi-cloud orchestration of i8s
-- 🌱 I’m currently learning AI-103 and data intelligence
-- 💞️ I’m looking to collaborate on hybrid and multi-cloud automation and cross platform workload integration
+- 🌱 I’m currently in a hybrid role - 50% group CTO and 50% tech vendor role for Ant Group, Digital Technologies (international), focused on productization, delivery, front end development, BD, GTM and customer success for
+- a)	Data driven appdev lifecycle services (mPaaS)
+- b)	Vision AI in eKYC and anti-deep fakes (Zoloz eKYC, Zoloz Deeper)
+- c)	Predictive AI in risk management, fraud prevention (Zoloz AML, Zoloz ID Network, TuGraph)
+- d)	GenAI (customer services, super-app and process automation)
+- e)	Payment tech, wallet tech
+- f)	wCBDC + tokenized assets + tokenized deposits (case study: HKMA Project Ensemble)
+-   g)	https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/05/20240507-4/
+- 💞️ I’m looking to collaborate on AI workload based GTM 
 - 📫 How to reach me is via linkedin
